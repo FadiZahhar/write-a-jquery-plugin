@@ -1,0 +1,13 @@
+{ 
+   "name": "tutsplus-jquery-plugins", 
+   "version": "1.0.0", 
+   "description": "Project for jQuery Plugins Course", 
+   "scripts": { 
+     "dev": "lite-server" 
+   }, 
+   "author": "", 
+   "license": "ISC", 
+   "devDependencies": { 
+     "lite-server": "2.2.0" 
+   }
+}

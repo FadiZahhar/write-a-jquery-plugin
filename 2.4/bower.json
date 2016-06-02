@@ -1,0 +1,24 @@
+{
+  "name": "tutsplus-jquery-plugins",
+  "description": "Project for jQuery Plugins Course",
+  "main": "",
+  "authors": [
+    "Jeremy McPeak <jwmcpeak@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [
+    "node"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.4",
+    "bootstrap": "^3.3.6"
+  }
+}
